@@ -1,16 +1,28 @@
-## Hi there 👋
+# Máté Farkas
 
-<!--
-**FarkasMate1/FarkasMate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Software Developer** · Budapest, Hungary
 
-Here are some ideas to get you started:
+Computer Science Engineering student at Budapest University of Technology and Economics (BME), with a vocational qualification in Software Development and Testing. I build full-stack web applications — from REST APIs and databases to responsive frontends — and I'm looking for my first professional role in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+`C#` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
+
+**Frameworks & Libraries**
+`React` `.NET` `Node.js` `Express.js` `WPF` `Sequelize`
+
+**Tools & Practices**
+`Git` `REST APIs` `JWT` `NUnit` `ORM` `Database Migrations` `OOP`
+
+---
+
+### 🎓 Education
+
+- **BSc in Computer Engineering** — Budapest University of Technology and Economics (BME), 2026–present
+- **Software Developer & Tester (EQF Level 5)** — Ceglédi SZC Economics and Information Technology Technical College
+---
+
+Open to junior developer roles and internships.
